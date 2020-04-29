@@ -6,3 +6,4 @@
 4. created a branch one word answer
 
 5. wrote answer
+6. merged the file and pushed

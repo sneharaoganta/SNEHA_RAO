@@ -1,2 +1,4 @@
 1. created a branch SNEHA_RAO
 2. created a file in this branch LOG.TXT
+3. created a branch explanation
+4. wrote answer in a file
